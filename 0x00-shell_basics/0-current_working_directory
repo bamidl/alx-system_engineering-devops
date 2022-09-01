@@ -1,5 +1,2 @@
-”pwd”
-”pwd”
-echo ”pwd”
-”pwd”
-”pwd”
+#!/bin/bash 
+pwd 
