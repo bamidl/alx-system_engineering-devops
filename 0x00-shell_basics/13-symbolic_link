@@ -1,0 +1,2 @@
+#!/bin/bashi
+ln -s /bin/ls ___ls__
